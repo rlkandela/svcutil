@@ -5,11 +5,10 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[package]
-license = MIT
+license = "MIT"
 description = "Package for creating rust code for consuming a soap API from a C# SVC"
-homepage = ""
-repository = ""
+homepage = "https://github.com/rlkandela/svcutil"
+repository = "https://github.com/rlkandela/svcutil"
 readme = "README.md"
 
 [dependencies]
