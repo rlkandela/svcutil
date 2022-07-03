@@ -1,0 +1,15 @@
+[package]
+name = "svcutil"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[package]
+license = MIT
+description = "Package for creating rust code for consuming a soap API from a C# SVC"
+homepage = ""
+repository = ""
+readme = "README.md"
+
+[dependencies]
